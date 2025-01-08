@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Connexio
+ * Connexio a la base de dades.
  */
 class Connexio {
     //Dades de la connexió a la base de dades la_meva_botiga.

@@ -3,7 +3,7 @@ Search.appendIndex(
                 {
             "fqsen": "\\Actualitzar",
             "name": "Actualitzar",
-            "summary": "Actualitzar",
+            "summary": "Actualitzar\u0020un\u0020producto\u0020en\u0020la\u0020base\u0020de\u0020datos",
             "url": "classes/Actualitzar.html"
         },                {
             "fqsen": "\\Actualitzar\u003A\u003Aactualizar\u0028\u0029",
@@ -13,7 +13,7 @@ Search.appendIndex(
         },                {
             "fqsen": "\\Connexio",
             "name": "Connexio",
-            "summary": "Connexio",
+            "summary": "Connexio\u0020a\u0020la\u0020base\u0020de\u0020dades.",
             "url": "classes/Connexio.html"
         },                {
             "fqsen": "\\Connexio\u003A\u003AobtenirConnexio\u0028\u0029",
@@ -41,9 +41,19 @@ Search.appendIndex(
             "summary": "",
             "url": "classes/Connexio.html#property_baseDatos"
         },                {
+            "fqsen": "\\Eliminar",
+            "name": "Eliminar",
+            "summary": "Eliminar\u0020productos\u0020de\u0020la\u0020base\u0020de\u0020datos",
+            "url": "classes/Eliminar.html"
+        },                {
+            "fqsen": "\\Eliminar\u003A\u003Aeliminar\u0028\u0029",
+            "name": "eliminar",
+            "summary": "",
+            "url": "classes/Eliminar.html#method_eliminar"
+        },                {
             "fqsen": "\\Footer",
             "name": "Footer",
-            "summary": "Footer",
+            "summary": "Footer\u0020para\u0020mostrar\u0020el\u0020pie\u0020de\u0020p\u00E1gina",
             "url": "classes/Footer.html"
         },                {
             "fqsen": "\\Footer\u003A\u003AmostrarFooter\u0028\u0029",
@@ -53,7 +63,7 @@ Search.appendIndex(
         },                {
             "fqsen": "\\Header",
             "name": "Header",
-            "summary": "Header",
+            "summary": "Header\u0020para\u0020mostrar\u0020el\u0020encabezado",
             "url": "classes/Header.html"
         },                {
             "fqsen": "\\Header\u003A\u003AmostrarHeader\u0028\u0029",
@@ -63,7 +73,7 @@ Search.appendIndex(
         },                {
             "fqsen": "\\Modificar",
             "name": "Modificar",
-            "summary": "Modificar",
+            "summary": "Modificar\u0020para\u0020mostrar\u0020el\u0020formulario\u0020de\u0020modificaci\u00F3n\u0020del\u0020producto",
             "url": "classes/Modificar.html"
         },                {
             "fqsen": "\\Modificar\u003A\u003AmostrarFormulari\u0028\u0029",
@@ -73,7 +83,7 @@ Search.appendIndex(
         },                {
             "fqsen": "\\Principal",
             "name": "Principal",
-            "summary": "Principal",
+            "summary": "Principal\u0020para\u0020mostrar\u0020la\u0020lista\u0020de\u0020productos",
             "url": "classes/Principal.html"
         },                {
             "fqsen": "\\Principal\u003A\u003AmostrarProductes\u0028\u0029",

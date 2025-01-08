@@ -3,6 +3,9 @@
 // Incluye el archivo de conexión
 require_once('Connexio.php');
 
+/**
+ * Eliminar productos de la base de datos
+ */
 class Eliminar {
     
     // Método para eliminar un producto de la base de datos

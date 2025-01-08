@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Footer
+ * Footer para mostrar el pie de página  
  */
 class Footer {
 

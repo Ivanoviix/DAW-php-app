@@ -4,7 +4,7 @@ require_once('Connexio.php');
 require_once('Header.php');
 
 /**
- * Principal
+ * Principal para mostrar la lista de productos
  */
 class Principal {
     
