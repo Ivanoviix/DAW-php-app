@@ -4,7 +4,7 @@ require_once('Connexio.php');
 require_once('Header.php');
 
 /**
- * Modificar
+ * Modificar para mostrar el formulario de modificación del producto 
  */
 class Modificar {
 

@@ -4,7 +4,7 @@
 require_once('Connexio.php');
 
 /**
- * Actualitzar
+ * Actualitzar un producto en la base de datos
  */
 class Actualitzar {
     

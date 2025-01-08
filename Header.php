@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Header
+ * Header para mostrar el encabezado 
  */
 class Header {
     
